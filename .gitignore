@@ -1,0 +1,4 @@
+/templates_1/docker-compose/docker-compose.yml
+/templates_1/nginx/admin.conf
+/templates_1/nginx/app.conf
+/templates_1/nginx/internal-gateway.conf
